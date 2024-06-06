@@ -1,0 +1,30 @@
+manifestVersion: 1
+id: sparkles-gimp
+name: Gimp
+tagline: latest
+icon: https://www.gravatar.com/avatar/099577e47b0c2f66b51bc0604ec56201?s=120&r=g&d=404
+category: Development
+version: "1.0.0"
+port: 8484
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: Dooug
+website: https://umbrel.com
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
