@@ -1,7 +1,7 @@
    
 version: '3.3'
 services:
-  stirling-pdf:
+  steam:
     image: steamcmd/steamcmd:latest
     ports:
       - '8383:8383'
