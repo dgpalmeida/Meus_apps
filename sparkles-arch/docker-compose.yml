@@ -1,7 +1,7 @@
    
 version: '3.3'
 services:
-  stirling-pdf:
+  arch:
     image: archlinux:latest
     ports:
       - '8282:8282'
